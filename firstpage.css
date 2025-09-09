@@ -1,0 +1,28 @@
+h1{
+    font-size: 100px;
+    color: aqua;
+    text-align: center;
+}
+
+h2{
+    font-size: 80px;
+    color: aquamarine;
+}
+
+body{
+    background-color: antiquewhite;
+    text-align: center;
+    
+}
+
+div{
+    height: 500px;
+    width: 500px;
+    background-color: blueviolet;
+    margin: auto;
+}
+
+img{
+    height: 250px;
+    width: 300px;
+}
